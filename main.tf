@@ -1,6 +1,6 @@
 provider "aws" {
     #profile = "sgti-st-sb003"
-    profile = "default"
+    profile = "default" #testing
     region  = "eu-west-1"
 }
  
